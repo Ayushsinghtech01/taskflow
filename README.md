@@ -1,4 +1,4 @@
-# ⚡ Taskmake — Team Task Maker
+# ⚡ Taskflow — Team Task Manager
 
 A full-stack team task management application with role-based access control, built with Node.js/Express backend and React frontend.
 
